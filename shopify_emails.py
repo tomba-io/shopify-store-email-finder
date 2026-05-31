@@ -147,8 +147,10 @@ def normalize_domain(value: str) -> str:
         return ""
     if "://" not in text:
         text = f"https://{text}"
-    host = urlparse(text).hostname or ""
-    return host.lower().lstrip("www.")
+    host = (urlparse(text).hostname or "").lower()
+    if host.startswith("www."):
+        host = host[4:]
+    return host
 
 
 def find_emails_by_store(
