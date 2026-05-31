@@ -1,0 +1,504 @@
+{
+    "data": {
+        "organization": {
+            "website_url": "allbirds.com",
+            "organization": "Allbirds",
+            "location": {
+                "country": "US",
+                "city": "San Francisco",
+                "state": "California",
+                "street_address": "-122.41",
+                "postal_code": "94111"
+            },
+            "social_links": {
+                "twitter_url": "https://twitter.com/allbirds",
+                "facebook_url": "https://www.facebook.com/weareallbirds",
+                "linkedin_url": "https://www.linkedin.com/company/10343298",
+                "instagram_url": "https://www.instagram.com/allbirds",
+                "github_url": null,
+                "youtube_url": null,
+                "pinterest_url": "https://www.pinterest.com/weareallbirds",
+                "tiktok_url": "https://www.tiktok.com/@@weareallbirds"
+            },
+            "disposable": false,
+            "webmail": false,
+            "phone_number": true,
+            "industries": "Apparel and Fashion",
+            "founded": "2015",
+            "company_size": "251-1K",
+            "company_type": "public",
+            "revenue": "$100M-$250M",
+            "accept_all": false,
+            "description": "at allbirds, we believe in using business as a force for good. we\u2019re a global footwear and apparel brand with roots in new zealand and our headquarters in san francisco. since 2016, we\u2019ve been on a mission to prove that comfort, design, and sustainability aren\u2019t mutually exclusive. our commitment to creating better things in a better way is fueled by a belief that the fashion industry needs to focus less on flash and more on thoughtfulness. and as a certified b corp, we\u2019re dedicated to making the most sustainable products we can using premium natural materials - designed for life\u2019s everyday adventures.",
+            "pattern": "{first}",
+            "total_similar": 41,
+            "keywords": [
+                "natural materials",
+                "apparel",
+                "sustainability",
+                "innovation",
+                "footwear"
+            ],
+            "ranking": 63962,
+            "whois": {
+                "registrar_name": "markmonitor inc.",
+                "created_date": "2002-01-09T16:24:37+01:00",
+                "referral_url": "http://www.markmonitor.com"
+            },
+            "last_updated": "2026-04-09T21:25:40+02:00"
+        },
+        "emails": [
+            {
+                "email": "nick.polesky@allbirds.com",
+                "first_name": "Nicholas",
+                "last_name": "Polesky",
+                "full_name": "Nicholas Polesky",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Director II Product Planning",
+                "department": "executive",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/nicholas-polesky-649b2642",
+                "score": 100,
+                "verification": {
+                    "date": "2026-05-31T00:00:00+02:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T01:16:10+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "npolesky@allbirds.com",
+                "first_name": "Nicholas",
+                "last_name": "Polesky",
+                "full_name": "Nicholas Polesky",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/nicholas-polesky",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T01:16:10+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "tess.haas@allbirds.com",
+                "first_name": "Tess",
+                "last_name": "Haas",
+                "full_name": "Tess Haas",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": null,
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 100,
+                "verification": {
+                    "date": "2025-12-14T00:00:00+01:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://app.tomba.io/verify/tess.haas@allbirds.com",
+                        "website_url": "app.tomba.io",
+                        "extracted_on": "2025-12-14T19:49:45+01:00",
+                        "last_seen_on": "2025-12-14T19:49:45+01:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "kate.lynch@allbirds.com",
+                "first_name": "Kate",
+                "last_name": "Lynch",
+                "full_name": "Kate Lynch",
+                "gender": "female",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/kaitlynlynch",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-04T01:09:00+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "cmiller@allbirds.com",
+                "first_name": "Chrissie",
+                "last_name": "Miller",
+                "full_name": "Chrissie Miller",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Collaborations and Partnerships",
+                "department": "sales",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/chrissie-miller-17365425",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-04-29T01:20:21+02:00",
+                        "last_seen_on": "2025-07-03T05:59:10+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "privacy@allbirds.com",
+                "first_name": null,
+                "last_name": null,
+                "full_name": "",
+                "gender": null,
+                "phone_number": false,
+                "type": "generic",
+                "country": null,
+                "position": null,
+                "department": "security",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 100,
+                "verification": {
+                    "date": "2025-09-14T00:00:00+02:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://borchelliskincare.com/pages/privacy-policy",
+                        "website_url": "borchelliskincare.com",
+                        "extracted_on": "2020-12-09T08:38:01+01:00",
+                        "last_seen_on": "2022-11-13T22:39:54+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.allbirds.com/pages/privacy-policy",
+                        "website_url": "www.allbirds.com",
+                        "extracted_on": "2020-12-09T08:56:45+01:00",
+                        "last_seen_on": "2023-04-17T14:26:30+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.allbirds.ca/pages/privacy-policy",
+                        "website_url": "www.allbirds.ca",
+                        "extracted_on": "2021-06-08T10:04:35+02:00",
+                        "last_seen_on": "2022-11-16T13:25:15+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://pearlstreetcaviar.com/pages/terms-and-conditions",
+                        "website_url": "pearlstreetcaviar.com",
+                        "extracted_on": "2021-07-02T19:10:23+02:00",
+                        "last_seen_on": "2021-07-19T23:33:20+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://critts.com/pages/legal",
+                        "website_url": "critts.com",
+                        "extracted_on": "2021-10-07T20:54:46+02:00",
+                        "last_seen_on": "2022-11-13T17:57:33+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.allbirds.co.nz/pages/privacy-policy",
+                        "website_url": "www.allbirds.co.nz",
+                        "extracted_on": "2022-06-22T10:54:04+02:00",
+                        "last_seen_on": "2023-04-17T14:26:33+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.allbirds.co.nz/11552760/policies/privacy-policy.html?locale=en-NZ",
+                        "website_url": "www.allbirds.co.nz",
+                        "extracted_on": "2022-06-22T10:54:06+02:00",
+                        "last_seen_on": "2022-07-13T03:03:59+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.allbirds.co.uk/pages/terms",
+                        "website_url": "www.allbirds.co.uk",
+                        "extracted_on": "2022-06-22T10:54:26+02:00",
+                        "last_seen_on": "2023-04-17T14:26:35+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.allbirds.co.uk/pages/privacy-and-cookies-policy",
+                        "website_url": "www.allbirds.co.uk",
+                        "extracted_on": "2022-06-22T10:54:27+02:00",
+                        "last_seen_on": "2023-04-17T14:26:35+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://evrsend.com/dashboard/ajax/tempFiles/0e20328b32265d534fa3d37eee8443953db628038123fbc847dfb05c19ad0628.txt",
+                        "website_url": "evrsend.com",
+                        "extracted_on": "2022-06-28T12:13:33+02:00",
+                        "last_seen_on": "2024-12-20T17:30:49+01:00",
+                        "still_on_page": false
+                    },
+                    {
+                        "uri": "https://evrsend.com/dashboard/ajax/tempFiles/cc0fcbcbd8706a062be859c9a3e202b846786feb679a10fdcfe784ce2c69cbb3.csv",
+                        "website_url": "evrsend.com",
+                        "extracted_on": "2022-06-28T12:28:07+02:00",
+                        "last_seen_on": "2024-12-20T17:30:49+01:00",
+                        "still_on_page": false
+                    },
+                    {
+                        "uri": "https://evrsend.com/dashboard/ajax/tempFiles/cdab690aa7f22f47ca645e76b03dee6821b7495cc48816a05836fe8b48f986f3.csv",
+                        "website_url": "evrsend.com",
+                        "extracted_on": "2022-06-28T12:30:45+02:00",
+                        "last_seen_on": "2024-12-20T17:30:49+01:00",
+                        "still_on_page": false
+                    },
+                    {
+                        "uri": "https://www.companiesintheuk.co.uk/ltd/allbirds-uk",
+                        "website_url": "www.companiesintheuk.co.uk",
+                        "extracted_on": "2022-09-04T21:00:58+02:00",
+                        "last_seen_on": "2022-09-05T01:00:21+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://azucojewelry.com/pages/privacy-policy",
+                        "website_url": "azucojewelry.com",
+                        "extracted_on": "2022-11-14T01:04:11+01:00",
+                        "last_seen_on": "2023-04-17T04:03:33+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.allbirds.com.au/pages/privacy-policy",
+                        "website_url": "www.allbirds.com.au",
+                        "extracted_on": "2022-11-13T10:02:06+01:00",
+                        "last_seen_on": "2022-11-16T12:50:43+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.allbirds.eu/pages/terms-of-use",
+                        "website_url": "www.allbirds.eu",
+                        "extracted_on": "2022-12-07T14:43:18+01:00",
+                        "last_seen_on": "2022-12-07T16:29:54+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.allbirds.eu/pages/privacy-and-cookies-policy",
+                        "website_url": "www.allbirds.eu",
+                        "extracted_on": "2022-12-07T14:43:18+01:00",
+                        "last_seen_on": "2022-12-07T16:29:54+01:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://de-de-online-store.allbirds.eu/pages/privacy-and-cookies-policy",
+                        "website_url": "de-de-online-store.allbirds.eu",
+                        "extracted_on": "2024-09-08T06:38:19+02:00",
+                        "last_seen_on": "2024-10-22T08:01:54+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://www.ponchooutdoors.com/pages/privacy",
+                        "website_url": "www.ponchooutdoors.com",
+                        "extracted_on": "2024-09-08T04:17:33+02:00",
+                        "last_seen_on": "2024-10-23T15:53:35+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://de-de-online-store.allbirds.eu/pages/terms-of-sale",
+                        "website_url": "de-de-online-store.allbirds.eu",
+                        "extracted_on": "2024-09-08T05:40:55+02:00",
+                        "last_seen_on": "2024-10-25T23:10:44+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "kunal.haritwal@allbirds.com",
+                "first_name": "Kunal",
+                "last_name": "Haritwal",
+                "full_name": "Kunal Haritwal",
+                "gender": "male",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": "Senior Manager SEC Reporting and Technical Accounting",
+                "department": "finance",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/kunalharitwal",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-04T04:00:46+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "sarah.curlin@allbirds.com",
+                "first_name": "Sarah",
+                "last_name": "Curlin",
+                "full_name": "Sarah Curlin",
+                "gender": "female",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/slcurlin",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T10:36:02+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "puja@allbirds.com",
+                "first_name": "Puja",
+                "last_name": "Bhattacherjee",
+                "full_name": "Puja Bhattacherjee",
+                "gender": "female",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": "co ceo offices operations",
+                "department": "executive",
+                "seniority": "executive",
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/puja-bhattacherjee-04639628",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://www.skymem.info/srch?q=allbirds.com",
+                        "website_url": "www.skymem.info",
+                        "extracted_on": "2023-07-18T06:08:52+02:00",
+                        "last_seen_on": "2024-12-19T12:45:47+01:00",
+                        "still_on_page": false
+                    }
+                ]
+            },
+            {
+                "email": "dylan.connor@allbirds.com",
+                "first_name": "Dylan",
+                "last_name": "Connor",
+                "full_name": "Dylan Connor",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": null,
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 100,
+                "verification": {
+                    "date": "2025-12-14T00:00:00+01:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://app.tomba.io/verify/dylan.connor@allbirds.com",
+                        "website_url": "app.tomba.io",
+                        "extracted_on": "2025-12-14T12:54:31+01:00",
+                        "last_seen_on": "2025-12-14T12:54:31+01:00",
+                        "still_on_page": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 287,
+        "pageSize": 10,
+        "current": 1,
+        "total_pages": 29,
+        "params": {
+            "domain": "allbirds.com",
+            "company": "",
+            "page": 1,
+            "limit": 10,
+            "department": null,
+            "country": null,
+            "type": "all",
+            "live": false,
+            "enrich_mobile": false,
+            "webhook_url": null
+        }
+    }
+}

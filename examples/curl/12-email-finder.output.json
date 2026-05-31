@@ -1,0 +1,35 @@
+{
+    "data": {
+        "email": "tess.haas@allbirds.com",
+        "first_name": "Tess",
+        "last_name": "Haas",
+        "full_name": "Tess Haas",
+        "website_url": "allbirds.com",
+        "company": "Allbirds",
+        "pattern": "{first}.{last}",
+        "department": "",
+        "type": "personal",
+        "position": null,
+        "country": null,
+        "gender": "female",
+        "twitter": null,
+        "linkedin": null,
+        "score": 100,
+        "accept_all": null,
+        "phone_number": false,
+        "verification": {
+            "date": "2025-12-14T00:00:00+01:00",
+            "status": "valid"
+        },
+        "sources": [
+            {
+                "uri": "https://app.tomba.io/verify/tess.haas@allbirds.com",
+                "website_url": "app.tomba.io",
+                "extracted_on": "2025-12-14T19:49:45+01:00",
+                "last_seen_on": "2025-12-14T19:49:45+01:00",
+                "still_on_page": true
+            }
+        ],
+        "phone_data": []
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data": {
+        "total": 287,
+        "personal_emails": 269,
+        "generic_emails": 18,
+        "department": {
+            "engineering": 9,
+            "finance": 8,
+            "hr": 1,
+            "it": 4,
+            "marketing": 21,
+            "operations": 13,
+            "management": 10,
+            "sales": 1,
+            "legal": 2,
+            "support": 9,
+            "communication": 1,
+            "executive": 17,
+            "accounting": 2,
+            "administrative": 0,
+            "diversity": 1,
+            "facilities": 0,
+            "pr": 3,
+            "security": 2,
+            "software": 2,
+            "warehouse": 3
+        },
+        "seniority": {
+            "junior": 5,
+            "senior": 28,
+            "executive": 6
+        }
+    },
+    "website_id": 8865689
+}

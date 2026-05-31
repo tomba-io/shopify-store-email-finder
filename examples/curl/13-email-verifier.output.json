@@ -1,0 +1,45 @@
+{
+    "data": {
+        "email": {
+            "email": "nick.polesky@allbirds.com",
+            "result": "deliverable",
+            "status": "valid",
+            "score": 99,
+            "smtp_provider": "Google Workspace",
+            "mx": {
+                "records": [
+                    "aspmx.l.google.com",
+                    "alt1.aspmx.l.google.com",
+                    "alt2.aspmx.l.google.com",
+                    "alt4.aspmx.l.google.com",
+                    "alt3.aspmx.l.google.com"
+                ]
+            },
+            "mx_check": true,
+            "smtp_server": true,
+            "smtp_check": true,
+            "accept_all": false,
+            "greylisted": false,
+            "block": false,
+            "gibberish": false,
+            "disposable": false,
+            "webmail": false,
+            "regex": true,
+            "whois": {
+                "registrar_name": "markmonitor inc.",
+                "referral_url": "http://www.markmonitor.com",
+                "created_date": "2002-01-09T16:24:37+01:00"
+            }
+        },
+        "sources": [
+            {
+                "uri": "https://tomba.io/robot",
+                "website_url": "tomba.io",
+                "extracted_on": "2025-07-01T15:01:12+02:00",
+                "last_seen_on": "2025-07-02T01:16:10+02:00",
+                "still_on_page": true
+            }
+        ],
+        "phone_data": []
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "data": {
+        "organization": {
+            "website_url": "allbirds.com",
+            "organization": "Allbirds",
+            "location": {
+                "country": "US",
+                "city": "San Francisco",
+                "state": "California",
+                "street_address": "-122.41",
+                "postal_code": "94111"
+            },
+            "social_links": {
+                "twitter_url": "https://twitter.com/allbirds",
+                "facebook_url": "https://www.facebook.com/weareallbirds",
+                "linkedin_url": "https://www.linkedin.com/company/10343298",
+                "instagram_url": "https://www.instagram.com/allbirds",
+                "github_url": null,
+                "youtube_url": null,
+                "pinterest_url": "https://www.pinterest.com/weareallbirds",
+                "tiktok_url": "https://www.tiktok.com/@@weareallbirds"
+            },
+            "disposable": false,
+            "webmail": false,
+            "phone_number": true,
+            "industries": "Apparel and Fashion",
+            "founded": "2015",
+            "company_size": "251-1K",
+            "company_type": "public",
+            "revenue": "$100M-$250M",
+            "accept_all": false,
+            "description": "at allbirds, we believe in using business as a force for good. we\u2019re a global footwear and apparel brand with roots in new zealand and our headquarters in san francisco. since 2016, we\u2019ve been on a mission to prove that comfort, design, and sustainability aren\u2019t mutually exclusive. our commitment to creating better things in a better way is fueled by a belief that the fashion industry needs to focus less on flash and more on thoughtfulness. and as a certified b corp, we\u2019re dedicated to making the most sustainable products we can using premium natural materials - designed for life\u2019s everyday adventures.",
+            "pattern": "{first}",
+            "total_similar": 41,
+            "keywords": [
+                "natural materials",
+                "apparel",
+                "sustainability",
+                "innovation",
+                "footwear"
+            ],
+            "ranking": 63962,
+            "whois": {
+                "registrar_name": "markmonitor inc.",
+                "created_date": "2002-01-09T16:24:37+01:00",
+                "referral_url": "http://www.markmonitor.com"
+            },
+            "last_updated": "2026-04-09T21:25:40+02:00"
+        },
+        "emails": [
+            {
+                "email": "nick.polesky@allbirds.com",
+                "first_name": "Nicholas",
+                "last_name": "Polesky",
+                "full_name": "Nicholas Polesky",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Director II Product Planning",
+                "department": "executive",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/nicholas-polesky-649b2642",
+                "score": 100,
+                "verification": {
+                    "date": "2026-05-31T00:00:00+02:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T01:16:10+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "npolesky@allbirds.com",
+                "first_name": "Nicholas",
+                "last_name": "Polesky",
+                "full_name": "Nicholas Polesky",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/nicholas-polesky",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T01:16:10+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "tess.haas@allbirds.com",
+                "first_name": "Tess",
+                "last_name": "Haas",
+                "full_name": "Tess Haas",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": null,
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 100,
+                "verification": {
+                    "date": "2025-12-14T00:00:00+01:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://app.tomba.io/verify/tess.haas@allbirds.com",
+                        "website_url": "app.tomba.io",
+                        "extracted_on": "2025-12-14T19:49:45+01:00",
+                        "last_seen_on": "2025-12-14T19:49:45+01:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "kate.lynch@allbirds.com",
+                "first_name": "Kate",
+                "last_name": "Lynch",
+                "full_name": "Kate Lynch",
+                "gender": "female",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/kaitlynlynch",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [
+                    {
+                        "valid": true,
+                        "local_format": "(628) 225-4848",
+                        "intl_format": "+1 628-225-4848",
+                        "e164_format": "+16282254848",
+                        "rfc3966_format": "tel:+1-628-225-4848",
+                        "country_code": "US",
+                        "line_type": "FIXED_LINE_OR_MOBILE",
+                        "carrier": "",
+                        "timezones": [
+                            "America/Los_Angeles"
+                        ]
+                    }
+                ],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-04T01:09:00+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "cmiller@allbirds.com",
+                "first_name": "Chrissie",
+                "last_name": "Miller",
+                "full_name": "Chrissie Miller",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Collaborations and Partnerships",
+                "department": "sales",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/chrissie-miller-17365425",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-04-29T01:20:21+02:00",
+                        "last_seen_on": "2025-07-03T05:59:10+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 287,
+        "pageSize": 5,
+        "current": 1,
+        "total_pages": 58,
+        "params": {
+            "domain": "allbirds.com",
+            "company": "",
+            "page": 1,
+            "limit": 5,
+            "department": null,
+            "country": null,
+            "type": "all",
+            "live": false,
+            "enrich_mobile": true,
+            "webhook_url": null
+        }
+    }
+}
