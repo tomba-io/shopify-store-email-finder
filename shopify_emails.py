@@ -56,7 +56,7 @@ def _load_dotenv() -> Path | None:
 
 API_BASE = "https://api.tomba.io/v1"
 DEFAULT_RPS = 5
-USER_AGENT = "tomba-shopify-store-email-finder/0.1.0 (+https://github.com/tomba-io)"
+USER_AGENT = "shopify-store-email-finder/0.1.0 (+https://github.com/tomba-io)"
 # Tomba /domain-search only accepts these page sizes
 VALID_LIMITS = (5, 10, 50, 100)
 
